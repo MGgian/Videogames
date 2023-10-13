@@ -1,0 +1,38 @@
+/* .card-container {
+    display: flex;
+    width: 250px;
+    flex-direction: column;
+    background-color: silver;
+    border: 1px solid green;
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+
+}
+
+.card-container:hover {
+    transform: scale(1.05);
+}
+
+.img {
+    height: 150px;
+    width: 250px;
+} */
+
+.card-cont{
+    background-color: gray;
+    border: solid 2px black;
+    justify-content: center;
+    width: 15rem;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.card-info-cont img {
+    width: 5rem;
+}
+

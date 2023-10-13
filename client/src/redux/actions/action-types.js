@@ -1,0 +1,14 @@
+export const GET_GAMES = "GET_GAMES";
+export const GET_GENRES = "GET_GENRES";
+export const GET_BY_ID = 'GET_BY_ID';
+export const GET_BY_NAME = 'GET_BY_NAME';
+export const PAGINATE = "PAGINATE";
+export const FILTER = "FILTER";
+export const DELETE_GAME = 'DELETE_GAME';
+export const ERROR_VIDEOGAME = 'ERROR_VIDEOGAME';
+export const NAME_SEARCHED = "NAME_SEARCHED";
+export const CLEAN = 'CLEAN';
+export const CLEAN_OBJECT = 'CLEAN_OBJECT';
+export const EDIT_GAME= 'EDIT_GAME';
+export const MOUNT = 'MOUNT';
+export const UNMOUNT = 'UNMOUNT';

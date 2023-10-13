@@ -1,0 +1,8 @@
+- Creamos reacty con: npx create-react-app
+- Instalamos las dependencias necesarias 
+- Creamos carpeta de Views donde configuraremos nuestras paginas principales: home, detail, landing. Para navegar dentro de estas usamos: BrowserRouter.
+- Creamos carpeta de Redux donde creamos tres archivos: actions, reducer y store.
+reducer: archivo donde declaramos estado local y global de nuestra aplicion
+Actions: funciones qeu se comunican con una fuente externa y tienen deentro de si mismo un "Type" y un "Payload".
+Payload: tiene la info que obtenemos como respiuesta o la transformacion que le queremos hacer al estado 
+Type: Es para que el reducer la deje pasar 

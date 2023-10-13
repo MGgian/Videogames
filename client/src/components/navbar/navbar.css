@@ -1,0 +1,26 @@
+/* .navbar-cont {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 150px;
+    line-height: 30px;
+    margin-bottom: 30px;   //esto dejar comentado
+} */
+
+.navbar-cont {
+  display: flex;
+  background-color: grey; 
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navbar-img-cont img{
+    width: 3rem;
+}
+
+.navbar-links-cont {
+  display: flex;
+  justify-content: space-between;
+  width: 15rem;
+}
